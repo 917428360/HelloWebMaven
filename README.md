@@ -9,5 +9,6 @@ instalacion:
 <li>Importar > Existing Maven Project</li>
 <li>Cambiar desde Properties del proyecto "Deployment Assembly" a "/src/main/webapp"</li>
 this is A add ok
+this is B add ok
 </ol>
 
