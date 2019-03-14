@@ -2,7 +2,6 @@
 Web App JEE2.5, servlet, jsp y tomcat
 
 
-instalacion:
 
 <ol>
 <li>Clonar repositorio en Eclipse</li>
